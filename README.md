@@ -1,4 +1,4 @@
-# Analysis of invasive and non-invasive technique on COVID people
+# Analysis of invasive and non-invasive technique on COVID patients
 
 Guiding journal - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252384
 
